@@ -1,6 +1,6 @@
 
 ## PRATIKUM SPK - METODE FUZZY CMEANS
 
-<b>Nama    : Wiradhiatama Mochammad Falih</b><br>
-<b>NIM     : G.231.20.0104</b><br>
+<b>Nama    : Edo Dewa Wardana</b><br>
+<b>NIM     : G.211.19.0039</b><br>
 <b>Kelas   : B1 <Sore></b><br>
